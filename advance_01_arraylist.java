@@ -4,7 +4,7 @@ public class advance_01_arraylist {
     public static void main(String[] args) {
         ArrayList<Integer> l1 = new ArrayList<>();
         ArrayList<Integer> l2 = new ArrayList<>();
-        
+
         l1.add(3);
         l1.add(4);
         l1.add(5);
