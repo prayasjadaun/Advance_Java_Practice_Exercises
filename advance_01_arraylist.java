@@ -13,9 +13,11 @@ public class advance_01_arraylist {
         l2.add(36);
         l2.add(44);
         l1.addAll(l2);
-
+        System.out.println(l1.contains(34));
+        System.out.println(l1.indexOf(6));
         for (int i = 0; i < l1.size(); i++) {
-            System.out.println(l1.get(i));
+            System.out.print(l1.get(i));
+            System.out.print(", ");
         }
     }
 }
