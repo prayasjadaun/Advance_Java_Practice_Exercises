@@ -10,6 +10,7 @@ public class advance_05_date {
         System.out.println("1970 to till now in Years: " + System.currentTimeMillis() / 1000 / 3600 / 24 / 365);
 
        // Date
+        
         Date d = new Date();
         System.out.println(d);
     }
