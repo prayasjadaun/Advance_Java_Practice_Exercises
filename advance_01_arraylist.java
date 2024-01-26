@@ -16,8 +16,9 @@ public class advance_01_arraylist {
         System.out.println(l1.contains(34));
         System.out.println(l1.indexOf(6));
         for (int i = 0; i < l1.size(); i++) {
-            System.out.print(l1.get(i));
-            System.out.print(", ");
+        System.out.print(l1.get(i));
+        System.out.print(", ");
         }
+
     }
 }
