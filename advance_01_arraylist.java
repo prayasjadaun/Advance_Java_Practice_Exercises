@@ -1,5 +1,12 @@
 import java.util.*;
+/*
+This is my own java docs
 
+@author Prayas Jadaun
+@version 0.1
+@since 2023
+@see Java Docs
+ */
 public class advance_01_arraylist {
     public static void main(String[] args) {
         ArrayList<Integer> l1 = new ArrayList<>();
